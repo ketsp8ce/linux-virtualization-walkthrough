@@ -36,12 +36,13 @@ Arch is minimalist and gives you full control, but it’s not beginner-friendly.
 
 - Head to [Arch’s download page](https://archlinux.org/download/)
 - Download the **torrent file** (helps the community by seeding!)
+
+![Arch Torrent Screenshot](screenshots/arch_torrent.png)
   
 If you need a torrent client, I recommend [qBittorrent](https://www.qbittorrent.org/download) — it's free, open-source, and not ad-ridden like BitTorrent.
 
 > ✅ **Tip:** Don’t confuse qBittorrent with the original BitTorrent client. They are different!
 
-![Arch Torrent Screenshot](https://github.com/user-attachments/assets/830af8ca-7b88-4fb1-b92b-8ea417344576)
 
 ---
 
@@ -52,9 +53,21 @@ Kali provides pre-built ISOs specifically optimized for VMs.
 - Go to [Kali’s virtual machine downloads](https://www.kali.org/get-kali/#kali-virtual-machines)
 - Choose **VirtualBox**, **VMware**, or another option depending on your hypervisor
 
-![Kali Download Screenshot](https://github.com/user-attachments/assets/f3f5f732-4238-4079-af67-14d24f7962ff)
+![Kali Download Screenshot](screenshots/kali_virtualbox)
 
 ---
 
-## 🧠 Too be continued...
+## Debian lightweight
 
+Debian has several options but I went with the lightweight version. I have good internet and as long as you are not offline you should choose this one too.
+
+- Go to [Debian's downloads page](https://www.debian.org/distrib/)
+- Choose Debian small image
+
+![Debian Small Screenshot](screenshots/debian_small.png)
+
+This is confusing or exciting as you may want to actually think about your computers architecture now. If you click on this ![more info](screenshots/debian_moreinfo)
+it will take you here: https://www.debian.org/CD/netinst/ for the option of extra reading if you are curious. 
+However you should most likely be ok selecting [amd64](screenshots/debian_amd64)
+
+## 🧠 Too be continued...
