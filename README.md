@@ -7,7 +7,7 @@ You can set one up, just to break it! You can do the things you have always want
 I was intimidated by the Linux community for too long. Everyone starts somewhere!
 
 You will need:
-# Virtualization Software:
+# virtualization software:
 --Virtualbox; download link: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 --VMware; download link: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 # 1 to 3 ISO files:
