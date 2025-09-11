@@ -13,3 +13,6 @@ You will need:
 # 1 to 3 ISO files:
 [https://www.linuxlookup.com/linux_iso](https://www.linuxlookup.com/linux_iso)
 For this tutorial, I will be setting up a machine for Debian, Arch, and Kali. 
+--https://archlinux.org/download/
+<img width="945" height="154" alt="image" src="https://github.com/user-attachments/assets/830af8ca-7b88-4fb1-b92b-8ea417344576" />
+
