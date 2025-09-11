@@ -56,8 +56,5 @@ Kali provides pre-built ISOs specifically optimized for VMs.
 
 ---
 
-## 🧠 Final Thoughts
+## 🧠 Too be continued...
 
-You’re not “doing it wrong” by using a VM — in fact, it’s one of the smartest ways to learn Linux. Break it, fix it, repeat. You’ll learn more than you expect.
-
-Let’s get started. 🚀
