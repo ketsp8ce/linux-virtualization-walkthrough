@@ -14,8 +14,9 @@ You will need:
 [https://www.linuxlookup.com/linux_iso](https://www.linuxlookup.com/linux_iso)
 For this tutorial, I will be setting up a machine for Debian, Arch, and Kali.
 
-# Arch 
+# Arch torrent download
 --https://archlinux.org/download/
 Download the torrent file. This helps seed the file and is a nice thing to do for the arch community (I know Linux users are pretentious, but you wouldn't be here if you did not think we were cool.)
 <img width="945" height="154" alt="image" src="https://github.com/user-attachments/assets/830af8ca-7b88-4fb1-b92b-8ea417344576" />
-
+If you do not already have a torrent client, here is qbittorrent, a free and open source torrent agent. Do not confuse this with BitTorrent:
+[https://www.qbittorrent.org/](https://www.qbittorrent.org/download)
