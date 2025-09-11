@@ -1,8 +1,5 @@
-# introductory-linux-virtualization-experiment
-
-The following a -
-# free guide
-- meant for your first exposure to Linux. Why am I making this? I hope that you will not make the same mistake as I did, and obtain Linux on your own machine as a total beginner.....
+# linux-virtualization-guide
+This guide is for absolute beginners. Why am I making this? I hope that you will not make the same mistake as I did, and obtain Linux on your own machine as a total beginner.....
 If you are curious like me, you might break something important, like deleting core meta data, rendering you entire personal computer unable to operate.
 
 This is where virtual machines come in. 
