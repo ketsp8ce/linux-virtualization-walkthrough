@@ -68,6 +68,9 @@ Debian has several options but I went with the lightweight version. I have good 
 
 This is confusing or exciting as you may want to actually think about your computers architecture now. If you click on this ![more info](screenshots/debian_moreinfo)
 it will take you here: https://www.debian.org/CD/netinst/ for the option of extra reading if you are curious. 
-However you should most likely be ok selecting [amd64](screenshots/debian_amd64)
+However you should most likely be ok selecting [amd64](screenshots/debian_amd64) and now you wait for that iso to download!
+
+---
+
 
 ## 🧠 Too be continued...
