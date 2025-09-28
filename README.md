@@ -1,18 +1,16 @@
 # Linux Virtualization: Easy Guide for Absolute Beginners
 
-Welcome! This guide is for **absolute beginners**. Why am I making this? I hope that you will **not make the same mistake as I did** — trying to install Linux on your own machine as a total beginner… and breaking things.
 
-If you are curious like me, you might accidentally **delete core metadata** or do something that renders your entire personal computer unable to operate. 😅
+
+
+
+This guide is for absolute beginners. Why am I making this? I hope that you will not make the same mistakes as I did, like trying to install Linux on your own machine as a total beginner… and breaking things.
+If you are curious like me, you might break something important, like deleting core meta data, rendering you entire personal computer unable to operate.
 
 This is where **virtual machines (VMs)** come in:
 
-- You can set one up just to **break it**  
-- Do all the things you’ve always wanted to try  
-- Be impulsive, irresponsible, and experiment freely
-
-I was intimidated by the Linux community for too long — **everyone starts somewhere!**
-
----
+You can set one up, just to break it! You can do the things you have always wanted to! You can be impulsive, irresponsible, and just try things!
+I was intimidated by the Linux community for too long (they can be extremely pretentious. Try not to let it get to you).
 
 ## 🚀 Required Software
 
@@ -41,14 +39,14 @@ You can find 1–3 ISO files here:
 ## 🌀 Arch Linux via Torrent
 
 - [Arch Linux Download Page](https://archlinux.org/download/)  
-- Download the **torrent file** — it helps seed the file, which is a nice thing to do for the community. (Yes, Linux users can be pretentious, but you wouldn’t be here if you didn’t want to be one of us 😎)
+- Download the **torrent file**. This helps seed the file and is a nice thing to do for the community (I know Linux users are pretentious, but you would not be here if you did not want to be one of us.)
 
 ![Arch Torrent Screenshot](images/prereqs/arch_torrent.png)
 
 If you don’t already have a torrent client, I recommend **qBittorrent**, a free and open-source torrent agent.
 
 - [Download qBittorrent](https://www.qbittorrent.org/download)  
-> ⚠️ **Tip:** Don’t confuse this with the original BitTorrent client — they are different!
+> ⚠️ **Tip:** Don’t confuse this with the original BitTorrent client.
 
 ---
 
